@@ -118,21 +118,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> 
-
-
-
-
-
- 
-
-
-
-
-
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirojlassi&show_icons=true&locale=en&layout=compact" alt="mirojlassi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirojlassi&show_icons=true&locale=en" alt="mirojlassi" /></p>
+![](https://github-readme-stats.vercel.app/api?username=MiroJlassi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MiroJlassi&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiroJlassi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirojlassi&" alt="mirojlassi" /></p>
+
