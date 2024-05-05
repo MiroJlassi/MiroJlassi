@@ -9,7 +9,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marwen-jlassi-297467221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwen-jlassi-297467221" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/marwenjlassi5844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marwenjlassi5844" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/marwenjlassi5844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marwenjlassi5844" height="30" width="40" />
+</p>
+
+<h3 align="left">Competitive Programming Accounts:</h3>
+<p align="left">
 <a href="https://codeforces.com/profile/admiral-miro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="admiral-miro" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mirojlassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirojlassi" height="30" width="40" /></a>
 </p>
