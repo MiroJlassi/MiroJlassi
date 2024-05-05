@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirojlassi" alt="mirojlassi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mirojlassi.github.io/Portfolio/](https://mirojlassi.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at my [Protfolio](https://mirojlassi.github.io/Portfolio/)
 
 - 💬 Ask me about **Game Dev**
 
