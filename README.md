@@ -1,8 +1,8 @@
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 
 <h1 align="center">Hi 👋, I'm Marwen Jlassi</h1>
 <h3 align="center">Computer Science Engineering Student at National School of Computer Science ENSI Tunisia</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirojlassi&label=Profile%20views&color=0e75b6&style=flat" alt="mirojlassi" /> </p>
 
