@@ -1,3 +1,6 @@
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
+
 <h1 align="center">Hi 👋, I'm Marwen Jlassi</h1>
 <h3 align="center">Computer Science Engineering Student at National School of Computer Science ENSI Tunisia</h3>
 <!--
@@ -125,4 +128,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MiroJlassi&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiroJlassi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=MiroJlassi&icon=7&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
